@@ -12,6 +12,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@capacitor/android": "^6.1.0",
     "@capacitor/app": "6.0.0",
     "@capacitor/core": "6.1.0",
     "@capacitor/haptics": "6.0.0",
@@ -19,12 +20,15 @@
     "@capacitor/status-bar": "6.0.0",
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
+    "cordova-plugin-imei": "^1.1.0",
     "ionicons": "^7.0.0",
     "vue": "^3.3.0",
     "vue-router": "^4.2.0"
   },
   "devDependencies": {
     "@capacitor/cli": "6.1.0",
+    "@typescript-eslint/eslint-plugin": "^7.14.1",
+    "@typescript-eslint/parser": "^7.14.1",
     "@vitejs/plugin-legacy": "^5.0.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/test-utils": "^2.3.0",
