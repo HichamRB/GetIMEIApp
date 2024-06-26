@@ -1,0 +1,7 @@
+{
+  "name": "get-imei-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
